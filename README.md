@@ -1,3 +1,7 @@
+> This project is now archived.
+It is no longer maintained or updated. The repository remains available in a read-only state for historical reference. Thank you to everyone who contributed!
+---
+
 # Depressurizer
 [![Github All Releases](https://img.shields.io/github/downloads/Depressurizer/Depressurizer/total.svg?style=flat-square)](https://github.com/mvegter/Depressurizer/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/Depressurizer/Depressurizer.svg?style=flat-square)](https://github.com/mvegter/Depressurizer/stargazers)
@@ -49,23 +53,6 @@ When you are ready to save your changes, **you must first completely close Steam
 Once Steam is closed, all you need to do is click on File > Save in Depressurizer. This will save your profile and, if you haven't changed any settings, will also automatically update your Steam config files with your changes. When you re-open Steam, your games should be organized.
 
 By default, Depressurizer will automatically load and update your profile the next time you launch the program.
-
-## Depressurizer (Premium) API 🚀 
-To resolve issues such as #194 (Internal server error due to scraping speed) and #189 ([REQUEST] Use Steam Database for removed games) a Depressurizer API was built. To get access you have to become a [GitHub sponsor](https://github.com/sponsors/mvegter).
-
-### Advantages
-* When the Steam Store page format changes you will not have to wait for a new Depressurizer release. The Depressurizer (Premium) API will take care of the new format without you having to take action;
-* You will not spam the Steam servers anymore, so no more Steam Store timeouts;
-* The API is subject to fair usage, you can use it outside Depressurizer;
-* Improved data for removed games / software / apps.
-
-### Configuration
-* Include your [steamID64](https://steamid.io/) in your GitHub profile description for verification.
-* Send an email to [mvegter](mailto:depressurizer@martijnvegter.com) containing your:
-    * SteamID 64
-    * Steam Web API Key
-    * GitHub username
-* Open Depressurizer and go to `Tools` -> `Settings` -> `Premium` and enter the value you receive on your initial email.
 
 ## Manual categorization
 
